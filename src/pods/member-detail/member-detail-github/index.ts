@@ -1,0 +1,1 @@
+export * from './member-detail-github.container'
